@@ -6,7 +6,7 @@
 ![WireGuard](https://img.shields.io/badge/VPN-WireGuard-88171A)
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow)
 
-Mise en place d'un cyber lab personnel isolé avec firewall dédié, hyperviseur bare-metal, machines virtuelles et accès VPN sécurisé depuis l'extérieur. Projet réalisé dans le cadre de ma formation en cybersécurité pour pratiquer l'administration réseau, la virtualisation et la sécurisation d'infrastructure.
+Mise en place d'un cyber lab personnel isolé avec firewall dédié, hyperviseur bare-metal, machines virtuelles et accès VPN sécurisé depuis l'extérieur. Projet personnel, mené en parallèle de ma formation en cybersécurité, pour pratiquer l'administration réseau, la virtualisation et la sécurisation d'infrastructure.
 
 ---
 
