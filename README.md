@@ -6,11 +6,11 @@
 ![WireGuard](https://img.shields.io/badge/VPN-WireGuard-88171A)
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow)
 
-Mise en place d'un cyber lab personnel isolé avec firewall dédié, hyperviseur bare-metal, machines virtuelles et accès VPN sécurisé depuis l'extérieur. Projet personnel, mené en parallèle de ma formation en cybersécurité, pour pratiquer l'administration réseau, la virtualisation et la sécurisation d'infrastructure.
+> Mise en place d'un cyber lab personnel isolé avec firewall dédié, hyperviseur bare-metal, machines virtuelles et accès VPN sécurisé depuis l'extérieur. Projet personnel, mené en parallèle de ma formation en cybersécurité, pour pratiquer l'administration réseau, la virtualisation et la sécurisation d'infrastructure.
 
 ---
 
-## 🗺️ Architecture générale
+## 🏗️ Architecture générale
 
 ```
 Internet
@@ -113,7 +113,7 @@ Accès distant via WireGuard :
 
 ---
 
-## 🎯 Objectifs du projet
+## 🎯 Objectifs
 
 - ✅ Mettre en place un réseau isolé avec firewall dédié
 - ✅ Déployer un hyperviseur bare-metal avec plusieurs VMs
@@ -125,13 +125,13 @@ Accès distant via WireGuard :
 
 ---
 
-## 📚 Compétences mises en pratique
+## 🧠 Compétences démontrées
 
 `Administration réseau` `pfSense` `Proxmox` `Virtualisation` `WireGuard` `VPN` `Firewall` `NAT` `Segmentation réseau` `Linux` `Windows Server` `Kali Linux`
 
 ---
 
-## 📁 Structure du repo
+## 📁 Structure du dépôt
 
 ```
 cyber-lab-perso/
